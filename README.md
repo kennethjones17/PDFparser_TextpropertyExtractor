@@ -4,4 +4,4 @@ A basic E-PDF parser that extracts all the Text Properties. Those include the Te
 
 # How to Run code
 
-Download the file and pass the document to me passed and make sure the document is in the same file explorer.
+Download the file and pass the document to be parsed and make sure the document is in the same file explorer.
